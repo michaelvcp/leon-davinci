@@ -32,7 +32,7 @@ A driven, passionate, and innovative Engineer looking to optimize processes of p
 
 ### Badges
 
-<a href="https://github.com/qezy4biz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qezy4biz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/leon-davinci" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leon-davinci&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
