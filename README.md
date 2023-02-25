@@ -6,9 +6,9 @@ Engineer / Product Manager
 
 A driven, passionate, and innovative Engineer looking to optimize processes of present and future technologies. I also posses a keen interest for business analytics and machine learning. I continuously challenge myself and utilize my problem solving skills to develop unique solutions for problems that can not only achieve current goals but change the world.
 
-* ✉️  You can contact me at [qezy4biz@gmail.com](mailto:qezy4biz@gmail.com)
-* 🤝  I'm open to collaborating on interesting and new projects / technologies
-* ⚡  passionate about solving complex problems, optimizations, and more
+* ✉️  You can contact me at [qezy4biz@gmail.com](mailto:qezy4biz@gmail.com)
+* 🤝  I'm open to collaborating on interesting and new projects / technologies
+* ⚡  passionate about solving complex problems, optimizations, and more
 
 ### Skills
 
@@ -28,12 +28,12 @@ A driven, passionate, and innovative Engineer looking to optimize processes of p
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/979797311792222208" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/qezy4biz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/qezy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/160220004598415360" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/leonm-cloud" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/seanmendez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
-<a href="https://github.com/michaelvcp" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelvcp&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/leonm-cloud" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonm-cloud&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/qezy4biz/QezyMob" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=michaelvcp&repo=QezyMob&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/leonm-cloud/QezyMob" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=leonm-cloud&repo=QezyMob&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
