@@ -1,14 +1,11 @@
 Hi! 👋 My name is Leon.
 =====================
 
-An Engineer and Project Manager
--------------------------------
-
 A driven, passionate, and innovative engineer, I am focused on optimizing processes for present and future technologies. Additionally, I possess a keen interest in business analytics and machine learning. Continuously challenging myself, I utilize my problem-solving skills to develop unique solutions for problems that can not only achieve current goals but also change the world.
 
-* ✉️  You can contact me at [qezy4biz@gmail.com](mailto:qezy4biz@gmail.com).
-* 🤝  I'm open to collaborating on I'm open to collaborating on interesting and new projects/technologies.
-* ⚡  I'm passionate about solving complex problems, optimization, and more.
+* ✉️ You can contact me at [qezy4biz@gmail.com](mailto:qezy4biz@gmail.com).
+* 🤝 I'm open to collaborating on interesting and new projects/technologies.
+* ⚡ I'm passionate about solving complex problems, optimization, and more.
 
 ### Skills
 
