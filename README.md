@@ -4,7 +4,7 @@ Hey! 👋 My name is Josiah
 A driven, passionate, and innovative engineer, I am focused on optimizing processes for present and future technologies. Additionally, I possess a keen interest in business analytics and machine learning. Continuously challenging myself, I utilize my problem-solving skills to develop unique solutions for problems that can not only achieve current goals but also change the world.
 
 * 🌍  I currently reside in New York City.
-* ✉️  You can reach me at [josiah.royal2010@gmail.com](mailto:josiah.royal2010@gmail.com)
+* ✉️  You can reach me at [josiah.royal2010@gmail.com](mailto:josiah.royal2010@gmail.com).
 * 🧠  I am currently studying business management at Stuyvesant High School.
 * 🤝  I am open to collaborating on intriguing and novel projects and technologies.
 * ⚡  I am passionate about solving intricate problems, optimizing processes, and exploring diverse fields of interest.
