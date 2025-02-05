@@ -5,7 +5,7 @@ A driven, passionate, and innovative engineer, I am focused on optimizing proces
 
 * 🌍  I currently reside in New York City.
 * ✉️  You can reach me at [josiah.royal2010@gmail.com](mailto:josiah.royal2010@gmail.com).
-* 🧠  I am currently studying business management at Stuyvesant High School.
+* 🧠  I am currently studying Software Engineering at the Urban Assembly Gateway School for Technology.
 * 🤝  I am open to collaborating on intriguing and novel projects and technologies.
 * ⚡  I am passionate about solving intricate problems, optimizing processes, and exploring diverse fields of interest.
 
